@@ -1,0 +1,17 @@
+#signUpBox {
+    background-color: #0000008f;
+    color: white;
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 90%;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+#signUpBox h1 {
+    font-size: 50px;
+    align-self: center;
+}
